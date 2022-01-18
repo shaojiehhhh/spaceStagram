@@ -107,7 +107,7 @@ function App() {
                   <div>
                     <DatePicker
                       selected={startDate}
-                      dateFormat="yyyy-MM-dd" // 날짜 형식
+                      dateFormat="yyyy-MM-dd" 
                       onChange={handleStartDate}
                       maxDate={new Date()}
                     />
@@ -119,7 +119,7 @@ function App() {
                 <div>
                   <DatePicker
                     selected={endDate}
-                    dateFormat="yyyy-MM-dd" // 날짜 형식
+                    dateFormat="yyyy-MM-dd" 
                     onChange={handleEndDate}
                     maxDate={new Date()}
                   />
