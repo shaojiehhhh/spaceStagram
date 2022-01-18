@@ -22,20 +22,23 @@ $ git clone https://github.com/shaojiehhhh/spacestagram.git
 You will need `node` and `npm` installed globally on your machine.  
 
 Installation:
+```
+$ npm install
+```
 
-`npm install`  
-
-To Run Test Suite:  
-
-`npm test`  
+To Run Test Suite: 
+```
+$ npm test
+```
 
 To Start Server:
-
-`npm start`  
+```
+$ npm start
+```
 
 To Visit App:
 
-`http://localhost:3000` 
+http://localhost:3000
 
 ## References
 [`src/assets/heart.png`](https://www.freeiconspng.com/img/38780)
