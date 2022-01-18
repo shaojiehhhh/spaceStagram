@@ -11,23 +11,31 @@ Search results come from NASA’s [free APIs](https://api.nasa.gov), and [Astron
 This web page displays five random space's images and their corresponding descriptive data, when users first access to it. Users can click the "random" button to see five random images.
 Users are able to browse photos by submiting specific date range through the date-picker, and "like" and "unlike" an image by clicking and unclicking the "heart" button. The photo link can be shared when users click the "link" button.
 
-## Available Scripts
+## Project Screenshots
+Please see the folder `example_screenshots` for example screenshots.
 
-In the project directory, you can run:
+## Installation and Setup Instructions
+Clone down this repository with the following code.
+```
+$ git clone https://github.com/shaojiehhhh/spacestagram.git
+```
+You will need `node` and `npm` installed globally on your machine.  
 
-### `npm start`
+Installation:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+`npm install`  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To Run Test Suite:  
 
-### `npm test`
+`npm test`  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To Start Server:
 
+`npm start`  
+
+To Visit App:
+
+`http://localhost:3000` 
 
 ## References
 [`src/assets/heart.png`](https://www.freeiconspng.com/img/38780)
