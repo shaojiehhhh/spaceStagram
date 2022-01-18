@@ -9,7 +9,7 @@ Search results come from NASA’s [free APIs](https://api.nasa.gov), and [Astron
 
 ## Features
 This web page displays five random space's images and their corresponding descriptive data, when users first access to it. Users can click the "random" button to see five random images.
-Users are able to "like" and "unlike" an image by clicking and unclicking the "heart" button, and browse photos by submiting specific date range through the date-picker. The photo link can be shared when users click the "link" button.
+Users are able to browse photos by submiting specific date range through the date-picker, and "like" and "unlike" an image by clicking and unclicking the "heart" button. The photo link can be shared when users click the "link" button.
 
 ## Available Scripts
 
