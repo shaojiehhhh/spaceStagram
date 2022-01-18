@@ -19,7 +19,7 @@ Clone down this repository with the following code.
 ```
 $ git clone https://github.com/shaojiehhhh/spacestagram.git
 ```
-You will need `node` and `npm` installed globally on your machine.  
+You will need [node](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) installed globally on your machine.  
 
 Installation:
 ```
